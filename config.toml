@@ -7,7 +7,7 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 publishDir = "docs"
-canonifyurls = true
+canonifyurls = false
 
 
 
